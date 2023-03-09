@@ -1,0 +1,5 @@
+tv_volume_up:
+tv_volume_down:
+sh_device_power_on:	home_device
+sh_device_power_off:	home_device
+wt_search_weather:	home_device

@@ -1,0 +1,11 @@
+<ne>	home_device
+에어컨
+
+<ne>	location
+서울
+부산
+
+<ne>	date
+내일
+오늘
+다음주

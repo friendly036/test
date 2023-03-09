@@ -1,0 +1,9 @@
+main_action	corpus_pattern
+tv_volume_up	볼륨 올리
+tv_volume_down	볼륨 내리
+sh_device_power_on	home_device 켜
+sh_device_power_off	home_device 꺼
+wt_search_weather	date 날씨
+wt_search_weather	date 날씨 알리
+wt_search_weather	location 날씨
+wt_search_weather	location 날씨 알리
